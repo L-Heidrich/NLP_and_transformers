@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc8fd48e-5342-40d3-b2ab-006452064e9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Attention_search/NER_tagger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attention_search/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformer_study_notes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformer_study_notes/Transformer-anatomy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformer_study_notes/char_level/bigram.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformer_study_notes/names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bigram model/bigram.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Bigram model/bigram.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
